@@ -1,6 +1,12 @@
 # 💫 About Me:
 An IoT & Embedded Systems engineer who loves turning tiny microcontrollers into devices that feel way too smart for their size. I specialize in building reliable, real-world systems — from vehicle detection on Raspberry Pi and ESP32 projects, to BLE Mesh networks, Modbus-controlled machines, and quirky displays that behave only most of the time.<br><br>I love solving hardware–software integration problems, optimizing embedded performance, and making everyday devices way more connected than they were ever meant to be.
 
+# 🤝 I’m looking to collaborate on
+
+- Embedded + IoT products that need real production-ready firmware
+- ESP32, nRF52, Zephyr RTOS, and Modbus projects
+- Smart device prototyping (from hardware to firmware to UI)
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/matbeddedmakerlab) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmad-wildan-160798) 
