@@ -40,12 +40,12 @@ An IoT & Embedded Systems engineer who loves turning tiny microcontrollers into 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
 
 # 📊 GitHub Stats:
-```md
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matwildan&layout=compact)
-```
 ![](https://github-readme-stats.vercel.app/api?username=matwildan&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=matwildan&theme=one_dark_pro&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=matwildan&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+### Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matwildan&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=matwildan&theme=radical&no-frame=true&no-bg=false&margin-w=4)
