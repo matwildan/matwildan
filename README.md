@@ -45,7 +45,7 @@ An IoT & Embedded Systems engineer who loves turning tiny microcontrollers into 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=matwildan&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matwildan&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matwildan\&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=matwildan&theme=radical&no-frame=true&no-bg=false&margin-w=4)
